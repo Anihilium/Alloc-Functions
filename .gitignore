@@ -1,0 +1,7 @@
+.vs/
+.vscode/
+.out
+*.o
+*.d
+test_allocator
+test_hook
